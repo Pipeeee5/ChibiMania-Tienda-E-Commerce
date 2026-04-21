@@ -1,4 +1,4 @@
-# ChibiMania — Tienda E-Commerce de Manga y Anime
+# ChibiMania — Tienda E-Commerce 
 
 Aplicación web de comercio electrónico desarrollada en PHP con integración a base de datos MySQL. Permite a los usuarios explorar un catálogo de productos (manga/anime), ver el detalle de cada artículo y realizar pagos mediante PayPal.
 
@@ -6,7 +6,7 @@ Aplicación web de comercio electrónico desarrollada en PHP con integración a 
 
 ## Descripción
 
-ChibiMania es una tienda online orientada a la venta de productos de manga y anime. El sistema gestiona el catálogo de productos desde una base de datos relacional y presenta la información de forma dinámica al usuario. Incluye un flujo completo desde la vista del catálogo hasta el checkout con integración de PayPal.
+ChibiMania tienda online Multiversatil. El sistema gestiona el catálogo de productos desde una base de datos relacional y presenta la información de forma dinámica al usuario. Incluye un flujo completo desde la vista del catálogo hasta el checkout con integración de PayPal.
 
 ---
 
